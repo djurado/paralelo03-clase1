@@ -2,3 +2,4 @@
 Asistencia a la clase de Políticas del curso:
 + David Jurado
 + Adriel Robles
++ Victor Peña
