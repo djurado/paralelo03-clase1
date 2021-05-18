@@ -6,5 +6,5 @@ Asistencia a la clase de Políticas del curso:
 + David Bravo
 + Yonkani Cedeño
 + Keyla Franco
-+ Jose Jaramillo
-+ Kenny Jara
++Jose Jaramillo
++Jose Vivanco
