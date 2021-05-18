@@ -5,4 +5,4 @@ Asistencia a la clase de Políticas del curso:
 + Victor Peña
 + David Bravo
 + Yonkani Cedeño
-+ Jean Villamar
++ Keyla Franco
