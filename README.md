@@ -9,3 +9,4 @@ Asistencia a la clase de Políticas del curso:
 + Jose Jaramillo
 + Kenny Jara
 + Jean Moreano
++ Jandry Rodríguez
