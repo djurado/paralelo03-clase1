@@ -11,3 +11,4 @@ Asistencia a la clase de Políticas del curso:
 + Jean Moreano
 + Jandry Rodríguez
 + Bryan Segovia
++ Jose Vivanco
