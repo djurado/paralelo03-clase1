@@ -4,3 +4,4 @@ Asistencia a la clase de Políticas del curso:
 + Adriel Robles
 + Victor Peña
 + David Bravo
++ Yonkani Cedeño
